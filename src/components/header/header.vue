@@ -2,7 +2,6 @@
   <div class="header">
     <div class="header-warpper">
       <i class="menu icon-menu"></i>
-      <i class="music icon-music"></i>
       <i class="find icon-wangyi"></i>
       <i class="community icon-community"></i>
       <i class="search icon-search"></i>
